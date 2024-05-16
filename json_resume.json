@@ -1,0 +1,241 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "William Carcamo",
+    "label": "Data Engineer | Back-end Developer",
+    "email": "",
+    "phone": "",
+    "summary": "Data Engineer | Back-end Developer",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "wcarcamo",
+        "url": "https://github.com/wcarcamo"
+      },
+      {
+        "network": "X",
+        "username": "Wcarcamo3",
+        "url": "https://twitter.com/wcarcamo3"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "California Correctional Healthcare Services",
+      "position": "Information Technology Specialist I",
+      "startDate": "2024-02-01",
+      "highlights": []
+    },
+    {
+      "name": "California Correctional Healthcare Services",
+      "position": "Staff Services Manager II",
+      "startDate": "2022-05-05",
+      "endDate": "2024-01-31",
+      "highlights": [
+        "Lead back-end developer building Cerner Mpage web applications",
+        "Built normalized custom tables to store data from Mpage web apps into Cerner's Oracle Database",
+        "Designed back-end software solutions for Mpage web apps using combinations of Cerner back-end tools including CCL, Discern Expert, and Pre-processing scripts",
+        "Built a data pipeline between an on-premise SQL Server Database into a remote Oracle Database using sqlcmd, batch scripts, ftp, CCL, and an Ops Job (a job scheduler)",
+        "Grew CCL team to 7 developers",
+        "Continued responsibilities listed under Research Data Supervisor I position below"
+      ]
+    },
+    {
+      "name": "California Correctional Healthcare Services",
+      "position": "Research Data Supervisor I",
+      "startDate": "2021-05-04",
+      "endDate": "2022-05-05",
+      "highlights": [
+        "Organized & managed a dedicated CCL team consisting of 2 Research Data Specialists I & 2 Analyst II staff",
+        "Created in-house resources for learning CCL & Cerner's back-end Oracle database",
+        "Launched use of Azure DevOps for agile development, version control with git, and wiki documentation",
+        "Trained, troubleshooted, and QA (quality assurance) staff assignments",
+        "Standardized Mpage API development workflows & tools",
+        "Established branded reporting templates for data requests using R",
+        "Continued responsibilities listed under Research Data Analyst II position below"
+      ]
+    },
+    {
+      "name": "California Correctional Healthcare Services",
+      "position": "Research Data Analyst II",
+      "startDate": "2019-12-18",
+      "endDate": "2022-05-04",
+      "highlights": [
+        "Developed CCL ad hoc queries & programs",
+        "Developed custom Smart Templates with CCL",
+        "Built, maintained, and troubleshooted custom Discern Expert Rules (An event listener tool used for automating workflows)",
+        "Developed back-end API scripts for Cerner Mpages with CCL"
+      ]
+    },
+    {
+      "name": "LPC Consulting, Inc.",
+      "position": "Research Associate II",
+      "startDate": "2018-08-27",
+      "endDate": "2019-11-15",
+      "highlights": [
+        "Ran statistical analysis for multiple program evaluation projects including linear and logistical regressions, survival analysis, linear mixed models, and other statistical null hypothesis testing.",
+        "Supported senior staff on research & evaluation tasks ranging from data collection, database management, writing evaluation reports, and data visualizations.",
+        "Built a data pipeline converting JSON data stored in a MongoDB into a Microsoft Access Database using R",
+        "Managed evaluation projects for two Sacramento based non-profits: Capitol Impact & Improve Your Tomorrow"
+      ]
+    },
+    {
+      "name": "Up2Us Sports",
+      "position": "Monitor & Evaluation Intern",
+      "startDate": "2017-06",
+      "endDate": "2018-07",
+      "highlights": [
+        "Managed data collection process for 27 program sites across the Pacific Southwest",
+        "Trained and supported frontline coaching staff on data collection procedures",
+        "Conducted interviews and focus groups with site coordinators and coaches for continuous quality improvements (CQI)",
+        "Developed and expanded the roles and responsibilities of future M&E interns at Up2Us Sport's Los Angeles"
+      ]
+    },
+    {
+      "name": "Youth Development Evaluation Lab: Tiffany Berry",
+      "position": "Research & Evaluation Analyst",
+      "startDate": "2017-01",
+      "endDate": "2018-07",
+      "highlights": [
+        "Researched and synthesized evaluative findings of two Los Angeles based after-school programs: After-school All-Stars & Montebello Unified School District Extended Learning Opportunities",
+        "Developed evaluation measurement tools",
+        "Collected, cleaned, aggregated, and analyzed various sets of quantitative & qualitative program evaluation data",
+        "Contributed to and presented various reports (Final, Site-Level, One-pagers) to diverse stakeholders for CQI"
+      ]
+    },
+    {
+      "name": "Claremont Graduate Unversity",
+      "position": "IT Attendant",
+      "startDate": "2017-01",
+      "endDate": "2018-05",
+      "highlights": [
+        "Set up technology equipment (computers, projecters, VoIP conference phones) in classrooms and conference rooms",
+        "Troubleshooted user issues related to both hardware equipment and software",
+        "Taught users how to perform simple tasks on CGU provided software"
+      ]
+    },
+    {
+      "name": "Christian Encounter Ministries",
+      "position": "Residential Intern",
+      "startDate": "2016-01",
+      "endDate": "2016-06",
+      "highlights": [
+        "Mentored and lived alongside 18 at-risk youth, cases from substance abuse, depression, behavior delinquencies",
+        "Led outdoor and indoor youth work programs",
+        "Provided safe and structured environment to assist in rehabilitation needs of students"
+      ]
+    },
+    {
+      "name": "Child Lab: Jason Brunt",
+      "position": "Research Assistant",
+      "startDate": "2015-09",
+      "endDate": "2015-12",
+      "highlights": [
+        "Administered experimental studies designed by Dr. Brunt",
+        "Coded and analyzed video observations",
+        "Composed a literature review on word acquisition and word associations studies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Claremont Graduate University",
+      "area": "Positive Developmental Psychology & Evaluation",
+      "studyType": "Master of Arts",
+      "startDate": "2016-08-31",
+      "endDate": "2018-05-05"
+    },
+    {
+      "institution": "Biola University",
+      "area": "Psychology",
+      "studyType": "Bachelor",
+      "startDate": "2015-12-18",
+      "endDate": "2012-08-29"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "R",
+        "Python",
+        "SQL",
+        "Cerner Command Language (CCL)",
+        "Shell Scripting: [Bash, Batch]"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "keywords": [
+        "RDBMS: [Oracle, SQL Server, Access]",
+        "NoSQL: MongoDB",
+        " Structures: [Tabular, JSON, XML]"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": [
+        "Git",
+        "VS Code",
+        "Azure DevOps",
+        "Github",
+        "Linux",
+        "Networking: [SSH, SFTP, HTTPS]"
+      ]
+    },
+    {
+      "name": "Research Methods",
+      "keywords": [
+        "Experimental",
+        "Qualitative",
+        "Mixed-Methods",
+        "Quasi-experimental",
+        "Report Writing"
+      ]
+    },
+    {
+      "name": "Statistics & Data Analysis",
+      "keywords": [
+        "Descriptive",
+        "T-Tests",
+        "ANOVA",
+        "Regressions",
+        "Factor Analysis",
+        "Structural Equation Modeling",
+        "GIS Mapping",
+        "Data Visualization"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

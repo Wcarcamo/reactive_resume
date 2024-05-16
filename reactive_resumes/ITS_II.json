@@ -1,0 +1,543 @@
+{
+  "basics": {
+    "name": "William Carcamo",
+    "headline": "Data Engineer | Back-end Developer | System Engineer",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "visible": true,
+      "id": "summary",
+      "content": ""
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 2,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "nx1yw6oqlozshz5vo0u4ugzr",
+          "visible": true,
+          "name": "Cerner Millennium: Design and Build Queries and Reports using Discern Analytics 2.0",
+          "issuer": "Oracle Health/Cerner",
+          "date": "April 2022",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "zak58c7hojl0rorxytspxt78",
+          "visible": true,
+          "name": "Cerner Millennium: Open Engine",
+          "issuer": "Oracle Health/Cerner",
+          "date": "December 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gtbn63q2xuos4r0nf2x9ryhm",
+          "visible": true,
+          "name": "Cerner: Lights On Network and Cerner Advance Analytics",
+          "issuer": "Oracle Health/Cerner",
+          "date": "November 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "sdomx1uqmpmhqzodaa5bz4gf",
+          "visible": true,
+          "name": "Cerner Millennium: Discern Explorer Advanced",
+          "issuer": "Oracle Health/Cerner",
+          "date": "November 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jpf4xamiu34efmakz26wqnxd",
+          "visible": true,
+          "name": "Cerner Millennium: Discern Explorer Intermediate",
+          "issuer": "Oracle Health/Cerner",
+          "date": "August 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "y25epkvi4chwbnvcrliymasg",
+          "visible": true,
+          "name": "Cerner Millennium: Open Port",
+          "issuer": "Oracle Health/Cerner",
+          "date": "July 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "qa1fkc2gc0h9f9vlfyf3tl86",
+          "visible": true,
+          "name": "Cerner Millennium - Building and Maintaining Mpages",
+          "issuer": "Oracle Health/Cerner",
+          "date": "June 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "q6jixkse699sialfjnq93j80",
+          "visible": true,
+          "name": "Cerner Millennium: Architecture, Troubleshooting, and Issue Management",
+          "issuer": "Oracle Health/Cerner",
+          "date": "March 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "c6gp8oqx26o34gup122ewzt5",
+          "visible": true,
+          "name": "Cerner Millennium: PowerForm Advanced",
+          "issuer": "Oracle Health/Cerner",
+          "date": "April 2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "dl8zmgmz40hlskmgf3sw3wwc",
+          "visible": true,
+          "name": "Introduction to the Event Set Hierarchy",
+          "issuer": "Oracle Health/Cerner",
+          "date": "March 2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tgswhiftjpt78e0hu1a1a11o",
+          "visible": true,
+          "name": "Cerner Millennium: Building and Maintaining PowerOrders",
+          "issuer": "Oracle Health/Cerner",
+          "date": "March 2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "kh2375obd1l1fnp6vdla9w7q",
+          "visible": true,
+          "name": "Cerner: Discern Explorer 1 WBT",
+          "issuer": "Oracle Health/Cerner",
+          "date": "March 2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "koyka6r90gkebl6dj296hbhg",
+          "visible": true,
+          "name": "Cerner Millennium: Discern Expert Design, Build, and Troubleshooting",
+          "issuer": "Oracle Health/Cerner",
+          "date": "March 2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "wukmhcvd3kld5khaegq95zq3",
+          "visible": true,
+          "name": "Cerner Millennium: Fundamentals",
+          "issuer": "Oracle Health/Cerner",
+          "date": "February 2020 ",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 2,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "im6x8ptrvuydfabbi3vf2bdw",
+          "visible": true,
+          "institution": "Claremont Graduate University",
+          "studyType": "Master of Arts",
+          "area": "Positive Developmental Psychology & Evaluation",
+          "score": "",
+          "date": "May 2018",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "dj7u0kak27g6rgudg04iqcw8",
+          "visible": true,
+          "institution": "Biola University",
+          "studyType": "Bachelor",
+          "area": "Psychology",
+          "score": "",
+          "date": "December 2015",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "qti2iwqigevokz2yl8t7jnkt",
+          "visible": true,
+          "company": "California Correctional Healthcare Services",
+          "position": "Information Technology Specialist I",
+          "location": "",
+          "date": "February 2024 - Present",
+          "summary": "<p></p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "serr2sz7c48mpre1a5jcbuiu",
+          "visible": true,
+          "company": "California Correctional Healthcare Services",
+          "position": "Staff Services Manager II",
+          "location": "",
+          "date": "July 2022 - Jan 2024",
+          "summary": "<ul><li><p>Lead back-end developer designing &amp; building Cerner Mpage web applications, using combinations of Cerner back-end tools including CCL, Discern Expert, Ops Jobs, and Pre-processing scripts </p></li><li><p>Built normalized custom tables to store data from Mpage web apps into Cerner's Oracle Database </p></li><li><p>Built a data pipeline between an on-premise SQL Server Database into a remote Oracle Database using sqlcmd, batch scripts, sftp, bash, CCL, and an Ops Job (a job scheduler) </p></li><li><p>Grew and managed CCL team of 7 developers </p></li><li><p>Continued responsibilities listed under Research Data Supervisor I position below</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "alj38td5jxiyssqp193pmow5",
+          "visible": true,
+          "company": "California Correctional Healthcare Services",
+          "position": "Research Data Supervisor I",
+          "location": "",
+          "date": "May 2021 - July 2022",
+          "summary": "<ul><li><p>Organized &amp; managed a dedicated CCL team consisting of 2 Research Data Specialists I &amp; 2 Analyst II staff </p></li><li><p>Created in-house resources for learning CCL &amp; Cerner's back-end Oracle database </p></li><li><p>Launched use of Azure DevOps for agile development, version control with git, and wiki documentation </p></li><li><p>Trained, troubleshooted, and QA (quality assurance) staff assignments </p></li><li><p>Standardized Mpage API development workflows &amp; tools </p></li><li><p>Established branded reporting templates for data requests using R </p></li><li><p>Continued responsibilities listed under Research Data Analyst II position below</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tfcbepabachux8ipzmflvvuk",
+          "visible": true,
+          "company": "California Correctional Healthcare Services",
+          "position": "Research Data Analyst II",
+          "location": "",
+          "date": "December 2019 - May 2022",
+          "summary": "<ul><li><p>Developed CCL ad hoc queries &amp; programs </p></li><li><p>Developed custom Smart Templates with CCL </p></li><li><p>Built, maintained, and troubleshooted custom Discern Expert Rules (An event listener tool used for automating workflows) </p></li><li><p>Developed back-end API scripts for Cerner Mpages with CCL</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "g66rjylvwjeva7idua3c9d90",
+          "visible": true,
+          "company": "LPC Consulting, Inc.",
+          "position": "Research Associate II",
+          "location": "",
+          "date": "August 2018 - November 2019",
+          "summary": "<ul><li><p>Ran statistical analysis for multiple program evaluation projects including linear and logistical regressions, survival analysis, linear mixed models, and other statistical null hypothesis testing. </p></li><li><p>Supported senior staff on research &amp; evaluation tasks ranging from data collection, database management, writing evaluation reports, and data visualizations. </p></li><li><p>Built a data pipeline converting JSON data stored in a MongoDB into a Microsoft Access Database using R </p></li><li><p>Managed evaluation projects for two Sacramento based non-profits: Capitol Impact &amp; Improve Your Tomorrow</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "v7kcg5ikyywekklws3jgj1o9",
+          "visible": true,
+          "company": "Claremont Graduate Unversity",
+          "position": "IT Attendant",
+          "location": "",
+          "date": "January 2017 - May 2018",
+          "summary": "<ul><li><p>Set up technology equipment (computers, projecters, VoIP conference phones) in classrooms and conference rooms </p></li><li><p>Troubleshooted user issues related to both hardware equipment and software </p></li><li><p>Taught users how to perform simple tasks on CGU provided software</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 2,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "ajq6gv8azd7106fk9goeo7sb",
+          "visible": true,
+          "name": "English",
+          "description": "Native speaker",
+          "level": 0
+        },
+        {
+          "id": "o54pwoqapdj8tl5u2dd0nvyf",
+          "visible": true,
+          "name": "Spanish",
+          "description": "Native speaker",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 3,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "np2ulsv0ft0b0waconi46ixh",
+          "visible": true,
+          "name": "Programming Languages",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "SQL",
+            "CCL",
+            "R",
+            "Python",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Markdown",
+            "Shell Scripting: [Bash, Batch]"
+          ]
+        },
+        {
+          "id": "ai3ntgpbyl7wfar0j5wxla89",
+          "visible": true,
+          "name": "Database Management",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "RDBMS: [Oracle, SQL Server, Access]",
+            "NoSQL: [MongoDB]",
+            " Structures: [Tabular, JSON, XML]"
+          ]
+        },
+        {
+          "id": "ej0s5whlay35qsk4o1u9pks1",
+          "visible": true,
+          "name": "Developer Tools",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Git",
+            "VS Code",
+            "Azure DevOps",
+            "Github",
+            "Linux",
+            "Networking: [SSH, SFTP, HTTPS]"
+          ]
+        },
+        {
+          "id": "fz5ctedlbzd7o906pnv8gmtt",
+          "visible": true,
+          "name": "Statistics & Data Analysis",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Descriptive",
+            "T-Tests",
+            "ANOVA",
+            "Regressions",
+            "Factor Analysis",
+            "Structural Equation Modeling",
+            "GIS Mapping",
+            "Data Visualization"
+          ]
+        },
+        {
+          "id": "e54i4bpnxbi7n5uee521hhxa",
+          "visible": true,
+          "name": "Research Methods",
+          "description": "",
+          "level": 0,
+          "keywords": [
+            "Experimental",
+            "Qualitative",
+            "Mixed-Methods",
+            "Quasi-experimental",
+            "Report Writing"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "onyx",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "skills",
+          "experience",
+          "certifications",
+          "education",
+          "languages"
+        ],
+        [
+          "interests",
+          "awards",
+          "projects",
+          "volunteer",
+          "references",
+          "publications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
